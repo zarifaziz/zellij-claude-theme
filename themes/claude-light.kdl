@@ -1,0 +1,17 @@
+// Claude Light — a Zellij theme matching the Claude desktop app palette.
+// Warm cream background, near-black text, terracotta accent.
+themes {
+    claude-light {
+        fg "#141413"
+        bg "#E8E6DC"
+        black "#FAF9F5"
+        red "#C15F3C"
+        green "#788C5D"
+        yellow "#B16803"
+        blue "#6A9BCC"
+        magenta "#8B6CB0"
+        cyan "#2E8B8B"
+        white "#141413"
+        orange "#D97757"
+    }
+}
