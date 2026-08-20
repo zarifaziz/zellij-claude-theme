@@ -8,7 +8,7 @@
 // Palette reference:
 //   ink        #141413   muted ink   #5E5D59   faint    #87867F
 //   cream      #FAF9F5   panel       #F0EEE6   chip     #E8E6DC
-//   border     #C8C6BE   terracotta  #D97757   clay     #C15F3C
+//   border     #87867F   terracotta  #D97757   clay     #C15F3C
 //   sage       #788C5D   amber       #B16803   blue     #6A9BCC
 //   purple     #8B6CB0   teal        #2E8B8B
 themes {
@@ -86,7 +86,7 @@ themes {
             emphasis_3 139 108 176
         }
         frame_unselected {
-            base 200 198 190
+            base 135 134 127
             background 250 249 245
             emphasis_0 217 119 87
             emphasis_1 46 139 139
