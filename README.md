@@ -14,9 +14,9 @@ Pairs well with:
 Zellij auto-loads any theme file in its themes directory:
 
 ```sh
-git clone https://github.com/zarifaziz/zellij-claude-theme
 mkdir -p ~/.config/zellij/themes
-ln -s "$(pwd)/zellij-claude-theme/themes/claude-light.kdl" ~/.config/zellij/themes/
+curl -o ~/.config/zellij/themes/claude-light.kdl \
+  https://raw.githubusercontent.com/zarifaziz/zellij-claude-theme/main/claude-light.kdl
 ```
 
 Then in `~/.config/zellij/config.kdl`:
