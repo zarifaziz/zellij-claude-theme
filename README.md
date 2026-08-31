@@ -61,8 +61,10 @@ version, either upgrade or paste the file's `themes { ... }` block directly into
 | Success | `#788C5D` | `#9ACA86` |
 | Error | `#C15F3C` | `#D47563` |
 
-The dark values come from Ghostty's built-in `Claude Dark` theme, so the two match
-when Zellij runs inside Ghostty.
+The dark background, foreground, selection, accent and the six hues come from
+Ghostty's built-in `Claude Dark` theme, so the two match when Zellij runs inside
+Ghostty. Panel and border have no Ghostty equivalent and are interpolated between
+the background and selection values.
 
 ## Licence
 
