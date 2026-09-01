@@ -9,7 +9,7 @@
 //   bone       #E5E4E1   muted       #A6A59B   faint    #888681
 //   charcoal   #262624   panel       #30302E   chip     #363634
 //   border     #3E3E3B   terracotta  #D97757   rust     #D47563
-//   sage       #9ACA86   amber       #E8C96B   blue     #6A9BCC
+//   sage       #9ACA86   amber       #B8963F   blue     #6A9BCC
 //   purple     #9B87F5   teal        #3CBE8C
 themes {
     claude-dark {
@@ -33,14 +33,14 @@ themes {
             base 166 165 155
             background 54 54 52
             emphasis_0 217 119 87
-            emphasis_1 232 201 107
+            emphasis_1 184 150 63
             emphasis_2 155 135 245
             emphasis_3 106 155 204
         }
         ribbon_selected {
             base 38 38 36
             background 217 119 87
-            emphasis_0 232 201 107
+            emphasis_0 184 150 63
             emphasis_1 154 202 134
             emphasis_2 155 135 245
             emphasis_3 106 155 204
@@ -96,13 +96,13 @@ themes {
         frame_selected {
             base 217 119 87
             background 38 38 36
-            emphasis_0 232 201 107
+            emphasis_0 184 150 63
             emphasis_1 60 190 140
             emphasis_2 155 135 245
             emphasis_3 106 155 204
         }
         frame_highlight {
-            base 232 201 107
+            base 184 150 63
             background 38 38 36
             emphasis_0 217 119 87
             emphasis_1 217 119 87
@@ -120,7 +120,7 @@ themes {
         exit_code_error {
             base 212 117 99
             background 38 38 36
-            emphasis_0 232 201 107
+            emphasis_0 184 150 63
             emphasis_1 48 48 46
             emphasis_2 155 135 245
             emphasis_3 106 155 204
@@ -129,7 +129,7 @@ themes {
             player_1 155 135 245
             player_2 60 190 140
             player_3 0 0 0
-            player_4 232 201 107
+            player_4 184 150 63
             player_5 106 155 204
             player_6 0 0 0
             player_7 212 117 99
